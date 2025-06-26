@@ -1,0 +1,1 @@
+Exploring Optical Character Recognition in Azure AI
