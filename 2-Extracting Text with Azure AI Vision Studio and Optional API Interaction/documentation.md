@@ -51,7 +51,7 @@ Extracting Text with Azure AI Vision Studio and Optional API Interaction
    
     ![8](./assets/Screenshot8.png)
 
-Review Analysis Results: Once the image is uploaded, the Vision Studio will automatically process and analyze it. Observe the results pane on the right side of the screen. The extracted text will be displayed, often with visual overlays showing individual lines or words and their bounding boxes directly on the image. You can also view the raw JSON response containing detailed information.
+   Review Analysis Results: Once the image is uploaded, the Vision Studio will automatically process and analyze it. Observe the results pane on the right side of the screen. The extracted text will be displayed, often with visual overlays showing individual lines or words and their bounding boxes directly on the image. You can also view the raw JSON response containing detailed information.
 
 
 9. Programmatically access and Understanding API Interaction for Developers. Scroll down and select `Try out the SDK` option in the bottom left pane: 
@@ -60,12 +60,12 @@ Review Analysis Results: Once the image is uploaded, the Vision Studio will auto
 
 
 
-The Azure AI Vision Studio provides a user-friendly interface, but all its functionalities are powered by underlying REST APIs. This means the same OCR capabilities you just used can be accessed programmatically using HTTP requests or Azure SDKs in various programming languages (e.g., Python, C#, Java).
+    The Azure AI Vision Studio provides a user-friendly interface, but all its functionalities are powered by underlying REST APIs. This means the same OCR capabilities you just used can be accessed programmatically using HTTP requests or Azure SDKs in various programming languages (e.g., Python, C#, Java).
 
-![9](./assets/Screenshot10.png)
+    ![9](./assets/Screenshot10.png)
 
 
-To integrate this into your own applications, you would typically refer to the official Azure AI Vision documentation. In the Vision Studio, for some features, you might even find "Code Samples" or "API reference" links that provide snippets or direct you to the relevant documentation page for the "Read" operation.
+    To integrate this into your own applications, you would typically refer to the official Azure AI Vision documentation. In the Vision Studio, for some features, you might even find "Code Samples" or "API reference" links that provide snippets or direct you to the relevant documentation page for the "Read" operation.
 
 
 ## Conclusion
